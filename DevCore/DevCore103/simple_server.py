@@ -21,5 +21,7 @@ def start_server():
         )
         client_socket.sendall(response.encode('utf-8'))
         client_socket.close()
+
+        
 if __name__ == "__main__":
     start_server()
