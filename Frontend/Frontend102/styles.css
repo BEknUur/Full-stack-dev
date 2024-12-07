@@ -13,3 +13,15 @@ body{
         color:blue;
         font-size:20px;
     }
+
+    #TASK2
+    button:hover{
+        color:red;
+        background-color: navy;
+        padding: 10px;
+    }
+    .btn_second::placeholder{
+        color:aqua;
+        background-color: lightblue;
+        padding: 20px;
+    }
