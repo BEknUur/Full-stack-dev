@@ -1,0 +1,74 @@
+To Do
+Planning & Research
+
+Define target audience and demographics.
+Research sports training practices.
+Identify key competitors in the market.
+Outline application features and structure.
+Design & Prototype
+
+Create wireframes for the user interface.
+Develop a prototype for testing user flows.
+Backend Development
+
+Set up database for storing user data, training programs, and progress tracking.
+Build APIs for user authentication and fetching training content.
+Implement subscription/payment gateway integration.
+Frontend Development
+
+Design UI components for the main dashboard, video lessons, and progress tracker.
+Implement dynamic user profiles and training schedule customization.
+Content Creation
+
+Gather or produce video lessons from experts.
+Write descriptive and motivational training content.
+Marketing
+
+Develop a branding strategy (name, logo, tagline).
+Create a marketing plan for launch.
+Set up social media accounts for promotion.
+
+
+
+In Progress
+Backend Development
+
+Database schema design for training programs and user progress.
+API development for fetching sports training data.
+Frontend Development
+
+Dashboard implementation with basic navigation.
+Initial design for the "Choose Sport & Level" page.
+Content Creation
+
+Drafting sample video lessons for testing.
+Outlining text content for onboarding users.
+Design
+
+Refining prototype based on initial user feedback.
+
+
+In Review
+Backend
+
+User authentication system testing.
+Testing initial training program API endpoints.
+Frontend
+
+Review and test "Choose Sport & Level" page.
+Ensure responsive design for various devices.
+Content
+
+Review expert-submitted video lessons.
+Proofread and refine motivational content.
+
+
+Done
+Planning
+
+Project goal and idea finalized.
+Feature list and initial wireframes approved.
+Setup
+
+Repository set up on GitHub.
+Initial tech stack decided (e.g., React for frontend, Node.js for backend, MongoDB for database).
