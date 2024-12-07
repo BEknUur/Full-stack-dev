@@ -1,0 +1,60 @@
+/* Основные стили */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Элемент с HEX-кодом */
+  .hex-color {
+    background-color: #ff5733; /* Оранжевый */
+    color: white;
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  /* Элемент с RGB */
+  .rgb-color {
+    background-color: rgb(0, 128, 255); /* Синий */
+    color: white;
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  /* Элемент с HSL */
+  .hsl-color {
+    background-color: hsl(120, 100%, 50%); /* Зеленый */
+    color: black;
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  /* Фон с цветом */
+  .background-color {
+    background-color: lightblue;
+    color: darkblue;
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  /* Фон с изображением */
+  .background-image {
+    background-image: url('https://picsum.photos/300/200');
+    background-size: cover; /* Изображение растягивается на весь элемент */
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    padding: 50px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  
